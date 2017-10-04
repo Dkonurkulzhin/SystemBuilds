@@ -4,7 +4,7 @@
   <pcNumber>0</pcNumber>
   <serverIP>127.0.0.1</serverIP>
   <pcsAmount>0</pcsAmount>
-  <applicationDirectory>D:\Projects\SystemBuilds\SystemBuilds\Client\Drone\\</applicationDirectory>
+  <applicationDirectory>D:\Projects\System\TheSystem\Drone\bin\Release\\</applicationDirectory>
   <broadcastPeriod>5000</broadcastPeriod>
   <AppCategories>
     <string>Игры</string>
