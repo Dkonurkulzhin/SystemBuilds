@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
     <version>0.0.0.2</version>
-    <url>https://raw.githubusercontent.com/Dkonurkulzhin/SystemBuilds/master/Server/Overlord.zip</url>
+    <url>https://github.com/Dkonurkulzhin/SystemBuilds/raw/master/Server/Overlord.zip<url>
     <mandatory>false</mandatory>
 </item>
